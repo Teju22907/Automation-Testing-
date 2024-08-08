@@ -334,15 +334,15 @@ def new_invite_comp():
 
 
 def main():
-     #user_creation("kamepallianitha23@gmail.com","anitha","kamepalli","anitha","anitha@123","Woman",3148)
+    user_creation("kamepallianitha23@gmail.com","anitha","kamepalli","anitha","anitha@123","Woman",3148)
     user_login("kalluritejaswini334@gmail.com","Tejaswini@123")
-    #update_display_name()
-    #user_update()
-    #upload_tips()
-    # create_comp()
-    # join_comp()
-    # invite_comp()
-    # new_create_comp()
+    update_display_name()
+    user_update()
+    upload_tips()
+    create_comp()
+    join_comp()
+    invite_comp()
+    new_create_comp()
     new_invite_comp()
 
 
